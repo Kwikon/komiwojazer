@@ -16,6 +16,14 @@
         <item>Białystok</item>
         <item>Szczecin</item>
         <item>Łódź</item>
+        <item>Gdynia</item>
+        <item>ZielonaGóra</item>
+        <item>Gniezno</item>
+        <item>Katowice</item>
+        <item>Rzeszów</item>
+        <item>Elbląg</item>
+        <item>Olsztyn</item>
+        <item>Lublin</item>
     </string-array>
 
 </resources>
