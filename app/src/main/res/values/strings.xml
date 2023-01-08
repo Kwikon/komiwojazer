@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Kominjazer</string>
+    <string name="multiautocompletetextview">MultiAutoCompleteTextView</string>
+    <string name="autocompletetextview">AutoCompleteTextView</string>
+    <string name="pierwsze_miasto">Pierwsze miasto</string>
+    <string name="selected_item">Selected item:</string>
+    <string name="spinnery">spinnery</string>
+    <string name="droga_pomi_dzy_miastami" />
+
+    <string-array name="City">
+        <item>Gdańsk</item>
+        <item>Warszawa</item>
+        <item>Kraków</item>
+        <item>Wrocław</item>
+        <item>Poznań</item>
+        <item>Białystok</item>
+        <item>Szczecin</item>
+        <item>Łódź</item>
+    </string-array>
+
+</resources>
